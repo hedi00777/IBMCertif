@@ -1,12 +1,5 @@
-# IBMCertif
-
 ## EDITING THE FILE
 
-Insights for IBM 
+# Cognos Analytics and Looker Studio Reportds with data from Kaggle.
 
-#─▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▄
-#█░░░█░░░░░░░░░░▄▄░██░█
-#█░▀▀█▀▀░▄▀░▄▀░░▀▀░▄▄░█
-#█░░░▀░░░▄▄▄▄▄░░██░▀▀░█
-#─▀▄▄▄▄▄▀─────▀▄▄▄▄▄▄▀
-
+#Insights for
